@@ -1,0 +1,5 @@
+owner = FRE
+controller = FRE
+add_core = FRE
+trade_goods = coal
+life_rating = 40

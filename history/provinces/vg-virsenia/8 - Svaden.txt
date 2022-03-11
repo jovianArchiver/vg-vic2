@@ -1,0 +1,5 @@
+owner = SVA
+controller = SVA
+add_core = SVA
+trade_goods = coal
+life_rating = 40

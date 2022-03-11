@@ -1,0 +1,444 @@
+# Sitka
+1 = {
+    text_position = {
+        x = 2169.650000
+        y = 1647.066667
+    }
+
+    text_rotation = 5.323253
+    text_scale = 3.299999
+    unit = {
+        x = 2153.983333
+        y = 1626.700000
+    }
+
+    city = {
+        x = 2146.933333
+        y = 1642.366667
+    }
+
+    factory = {
+        x = 2156.333333
+        y = 1643.150000
+    }
+
+    building_construction = {
+        x = 2160.250000
+        y = 1632.966667
+    }
+
+    military_construction = {
+        x = 2171.216667
+        y = 1622.783333
+    }
+
+    building_position = {
+        fort = {
+            x = 2149.283333
+            y = 1652.550000
+        }
+
+        railroad = {
+            x = 2156.333333
+            y = 1665.083333
+        }
+
+        naval_base = {
+            x = 2086.616667
+            y = 1550.716667
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 5.672319
+    }
+
+    building_nudge = {
+        naval_base = {
+            x = 293.400000
+            y = 2085.000000
+        }
+
+    }
+
+}
+
+# Yakutat
+2 = {
+    text_position = {
+        x = 2434.333333
+        y = 1675.500000
+    }
+
+    text_rotation = 0.845397
+    text_scale = 3.999998
+    unit = {
+        x = 2451.250000
+        y = 1666.750000
+    }
+
+    city = {
+        x = 2458.250000
+        y = 1671.416667
+    }
+
+    factory = {
+        x = 2444.833333
+        y = 1665.000000
+    }
+
+    building_construction = {
+        x = 2433.166667
+        y = 1660.333333
+    }
+
+    military_construction = {
+        x = 2440.166667
+        y = 1666.750000
+    }
+
+    building_position = {
+        fort = {
+            x = 2443.083333
+            y = 1676.083333
+        }
+
+        railroad = {
+            x = 2455.916667
+            y = 1678.416667
+        }
+
+        naval_base = {
+            x = 2576.666667
+            y = 1734.416667
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 5.235987
+    }
+
+}
+
+# Kenai
+3 = {
+    text_position = {
+        x = 2527.166667
+        y = 1970.333333
+    }
+
+    text_scale = 6.299996
+    unit = {
+        x = 2540.833333
+        y = 1946.666667
+    }
+
+    city = {
+        x = 2522.833333
+        y = 1943.333333
+    }
+
+    factory = {
+        x = 2531.500000
+        y = 1946.000000
+    }
+
+    building_construction = {
+        x = 2532.166667
+        y = 1937.333333
+    }
+
+    military_construction = {
+        x = 2542.500000
+        y = 1941.000000
+    }
+
+    building_position = {
+        fort = {
+            x = 2524.833333
+            y = 1952.666667
+        }
+
+        railroad = {
+            x = 2535.166667
+            y = 1954.333333
+        }
+
+        naval_base = {
+            x = 2496.166667
+            y = 1903.666667
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 0.523597
+    }
+
+}
+
+# Dutch Harbor
+4 = {
+    text_position = {
+        x = 2198.483333
+        y = 1841.425000
+    }
+
+    text_scale = 4.499998
+    unit = {
+        x = 2205.183333
+        y = 1837.516667
+    }
+
+    city = {
+        x = 2193.458333
+        y = 1832.491667
+    }
+
+    factory = {
+        x = 2196.808333
+        y = 1829.700000
+    }
+
+    building_construction = {
+        x = 2205.183333
+        y = 1827.466667
+    }
+
+    military_construction = {
+        x = 2194.575000
+        y = 1820.208333
+    }
+
+    building_position = {
+        fort = {
+            x = 2216.350000
+            y = 1832.491667
+        }
+
+        railroad = {
+            x = 2212.441667
+            y = 1838.633333
+        }
+
+        naval_base = {
+            x = 2242.591667
+            y = 1851.475000
+        }
+
+    }
+
+}
+
+# Bethel
+5 = {
+    text_position = {
+        x = 1504.183333
+        y = 1671.750000
+    }
+
+    text_scale = 6.199996
+    unit = {
+        x = 1516.841667
+        y = 1671.750000
+    }
+
+    city = {
+        x = 1511.416667
+        y = 1657.283333
+    }
+
+    factory = {
+        x = 1491.525000
+        y = 1651.858333
+    }
+
+    building_construction = {
+        x = 1482.483333
+        y = 1666.325000
+    }
+
+    military_construction = {
+        x = 1502.375000
+        y = 1635.583333
+    }
+
+    building_position = {
+        fort = {
+            x = 1513.225000
+            y = 1697.066667
+        }
+
+        railroad = {
+            x = 1513.225000
+            y = 1697.066667
+        }
+
+        naval_base = {
+            x = 1900.208333
+            y = 1407.733333
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 5.585052
+    }
+
+}
+
+# Whitehorse
+6 = {
+    text_position = {
+        x = 2371.550000
+        y = 1774.525000
+    }
+
+    text_scale = 6.399996
+    unit = {
+        x = 2373.650000
+        y = 1774.000000
+    }
+
+    city = {
+        x = 2378.375000
+        y = 1774.787500
+    }
+
+    factory = {
+        x = 2382.575000
+        y = 1774.000000
+    }
+
+    building_construction = {
+        x = 2387.825000
+        y = 1775.575000
+    }
+
+    military_construction = {
+        x = 2389.400000
+        y = 1774.525000
+    }
+
+    building_position = {
+        fort = {
+            x = 2375.487500
+            y = 1779.250000
+        }
+
+        railroad = {
+            x = 2380.212500
+            y = 1780.825000
+        }
+
+        naval_base = {
+            x = 2436.387500
+            y = 1796.837500
+        }
+
+    }
+
+}
+
+# Dawson
+7 = {
+    text_position = {
+        x = 2612.083333
+        y = 1558.000000
+    }
+
+    text_scale = 7.299995
+    unit = {
+        x = 2621.250000
+        y = 1553.416667
+    }
+
+    city = {
+        x = 2620.333333
+        y = 1557.541667
+    }
+
+    factory = {
+        x = 2626.750000
+        y = 1555.479167
+    }
+
+    building_construction = {
+        x = 2625.604167
+        y = 1559.375000
+    }
+
+    military_construction = {
+        x = 2620.104167
+        y = 1564.416667
+    }
+
+    building_position = {
+        fort = {
+            x = 2611.625000
+            y = 1551.812500
+        }
+
+        railroad = {
+            x = 2618.041667
+            y = 1550.437500
+        }
+
+        naval_base = {
+            x = 2590.541667
+            y = 1543.562500
+        }
+
+    }
+
+}
+
+# Ross River
+8 = {
+    text_position = {
+        x = 2229.925000
+        y = 1782.754167
+    }
+
+    text_scale = 4.399998
+    unit = {
+        x = 2224.370833
+        y = 1780.816667
+    }
+
+    city = {
+        x = 2221.400000
+        y = 1779.783333
+    }
+
+    factory = {
+        x = 2215.458333
+        y = 1778.362500
+    }
+
+    building_construction = {
+        x = 2215.329167
+        y = 1780.687500
+    }
+
+    military_construction = {
+        x = 2219.333333
+        y = 1781.591667
+    }
+
+    building_position = {
+        fort = {
+            x = 2224.241667
+            y = 1782.625000
+        }
+
+        railroad = {
+            x = 2219.204167
+            y = 1783.141667
+        }
+
+    }
+
+}

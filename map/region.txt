@@ -1,0 +1,8 @@
+VEL = { 1 }
+ENZ = { 2 }
+GAL = { 3 }
+REN = { 4 }
+NOS = { 5 }
+FRE = { 6 }
+TAK = { 7 }
+SVA = { 8 }

@@ -1,0 +1,5 @@
+owner = ENZ
+controller = ENZ
+add_core = ENZ
+trade_goods = coal
+life_rating = 40

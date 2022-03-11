@@ -1,0 +1,52 @@
+#Afghanistan Region (3672000)
+#under the rule of Afghanistan in 1836
+#Kabul (996000/249000 POPS)
+1 = {
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 100
+}
+2 = {
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 100
+}
+3 = {
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 100
+}
+4 = {
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 100
+}
+5 = {
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 100
+}
+6 = {
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 100
+}
+7 = {
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 100
+}
+8 = {
+	farmers = {
+		culture = polish
+		religion = catholic
+		size = 100
+}
+

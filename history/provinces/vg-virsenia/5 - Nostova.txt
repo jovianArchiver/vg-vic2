@@ -1,0 +1,5 @@
+owner = NOS
+controller = NOS
+add_core = NOS
+trade_goods = coal
+life_rating = 40
